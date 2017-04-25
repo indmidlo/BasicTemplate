@@ -13,4 +13,4 @@ call-script-text: 'Potential Script: Hi, my name is _____ and I''m a constituent
 layout: actions
 ---
 
-Call Senator Warner (202) 224-2023, Senator Kaine (202) 224-4024, and your representative to keep funding for "The Wall" out of the federal budget!
+Call Senator Warner (202) 224-2023, Senator Kaine (202) 224-4024, and Congressman Dave Brat (202) 225-2815 to keep funding for "The Wall" out of the federal budget!
