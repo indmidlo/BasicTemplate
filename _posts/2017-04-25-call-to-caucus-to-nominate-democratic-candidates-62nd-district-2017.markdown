@@ -1,6 +1,8 @@
 ---
 title: Call to Caucus to Nominate Democratic Candidates, 62nd District, 2017
 date: 2017-04-25 10:50:00 -04:00
+categories:
+- Event
 event-start-date: 2017-05-02 15:00:00 -04:00
 ---
 
