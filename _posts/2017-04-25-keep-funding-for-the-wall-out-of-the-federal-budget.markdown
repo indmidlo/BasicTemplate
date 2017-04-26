@@ -12,7 +12,7 @@ call-script-text: 'Potential Script: Hi, my name is _____ and I''m a constituent
   that rates of border deaths increase with each new mile of wall constructed along
   the border since the 1990s. Illegal immigration is down, this is fraud, waste, and
   abuse.'
-layout: actions
+layout: post
 ---
 
 Call Senator Warner (202) 224-2023, Senator Kaine (202) 224-4024, and Congressman Dave Brat (202) 225-2815 to keep funding for "The Wall" out of the federal budget!
