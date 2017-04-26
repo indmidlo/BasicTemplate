@@ -1,6 +1,8 @@
 ---
 title: Call CongressmanDave Brat about Health Care
 date: 2017-04-26 07:40:00 -04:00
+categories:
+- action
 is featured: true
 call-script-text: |-
   “Hello my name is [name] in [zipcode]. I was pleased about Congressman Brat's opposition to the AHCA and would like to urge him to oppose any new healthcare law that would take away insurance and/or raise premiums for Americans.”
