@@ -10,8 +10,8 @@ event-start-date: 2017-04-26 00:00:00 -04:00
 event-end-date: 2017-04-28 00:00:00 -04:00
 ---
 
-Call or email Congressman Dave Brat this week about health care. 
-DC office: (202) 225-2815 / Fax (202) 225-0011   	
-Spotsylvania office: (540) 507-7216 / (540) 507-7019  
-Glen Allen office: (804) 747-4073 / Fax (804) 747-5308
+Call or email Congressman Dave Brat this week about health care.<br /> 
+DC office: (202) 225-2815 / Fax (202) 225-0011<br />	
+Spotsylvania office: (540) 507-7216 / (540) 507-7019<br />
+Glen Allen office: (804) 747-4073 / Fax (804) 747-5308<br />
 Email: <a href="https://brat.house.gov/contact/" target="_blank">https://brat.house.gov/contact/</a>
