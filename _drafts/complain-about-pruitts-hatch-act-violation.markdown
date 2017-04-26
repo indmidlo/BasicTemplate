@@ -7,7 +7,7 @@ categories:
 
 EPA Head, Scott Pruitt, is using his federal position to raise money for the GOP of Oklahoma, in violation of the Hatch Act.
 
-He is listed on the invitation as the keynote speaker, and his accomplishments listed include a rollback the Waters of the US Rule, calling for an exit to the Paris Agreement, slashing regulations and decreasing the size of the EPA.
+He is listed on the invitation as the keynote speaker at the <a href="http://mailchi.mp/okgop/scott-pruitt-confirmed-to-speak-at-okgop-convention" target="_blank">annual OKGOP Gala</a> on May 5th, and his accomplishments listed include a rollback the Waters of the US Rule, calling for an exit to the Paris Agreement, slashing regulations, and decreasing the size of the EPA.
 
 The office to complain to is the U.S. Office of Special Counsel. Removal is the only penalty for violation of the Hatch Act.
 
