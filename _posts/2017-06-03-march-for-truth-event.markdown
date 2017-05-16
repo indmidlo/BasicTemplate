@@ -1,6 +1,7 @@
 ---
 title: March For Truth Event
 date: 2017-06-03 13:00:00 -04:00
+published: false
 categories:
 - Event
 is featured: true
@@ -9,6 +10,7 @@ event-start-date: 2017-06-03 00:00:00 -04:00
 event-end-date: 2017-06-03 16:00:00 -04:00
 Location: TBD
 RSVP-link: https://www.facebook.com/events/647866198757779/
+Field name: 
 ---
 
 As you are aware there is more than sufficient cause for alarm about the role Russian state-led hacking and information warfare played in the 2016 election, and there are crucial unanswered questions about the relationship between the Russian state and Donald Trump, his associates and his campaign. The legitimacy of the United States government may hinge on the answers to these questions. If the President was elected even in part due to collusion with a foreign effort to interfere in our democratic process, then the will of the people has been subverted. 
