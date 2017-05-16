@@ -1,7 +1,6 @@
 ---
 title: March For Truth Event
 date: 2017-06-03 13:00:00 -04:00
-published: false
 categories:
 - Event
 is featured: true
