@@ -2,8 +2,7 @@
 title: Become A Member
 date: 2017-02-16 22:58:00 -05:00
 position: 5
-mailchimp-form-embed: '<a href="http://tumblr.us15.list-manage.com/subscribe?u=380b49bfbc48ee5343d62f8e9&id=4ebf43733a">Sign
-  Up</a> '
+mailchimp-form-embed: '<a href="http://facebook.com">Sign Up</a> '
 layout: becomeAMember
 ---
 
