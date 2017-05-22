@@ -3,6 +3,8 @@ title: Become A Member
 date: 2017-02-16 22:58:00 -05:00
 position: 5
 mailchimp-form-embed: 'Sign up for our newsletter: http://eepurl.com/cM0j61'
+Field name:
+  Key 1: 
 layout: becomeAMember
 ---
 
