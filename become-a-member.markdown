@@ -3,7 +3,7 @@ title: Become A Member
 date: 2017-02-16 22:58:00 -05:00
 position: 5
 mailchimp-form-embed: '<a href="http://tumblr.us15.list-manage.com/subscribe?u=380b49bfbc48ee5343d62f8e9&id=4ebf43733a">Sign
-  Up</a> '
+  Up Here</a> '
 layout: becomeAMember
 ---
 
@@ -12,4 +12,5 @@ Members of our Indivisible Midlothian chapter are defined by our action and find
 Members of our Indivisible Midlothian chapter come from all kinds of backgrounds and political persuasions. Some of us are first-time activists and other have been at this for decades. We are citizens and noncitizens. Most importantly, we are all patriots that want the best for our country and are willing to work for it.
 
 **All are welcome.**
-[Sign Up](http://eepurl.com/cM0j61)
+
+[Sign Up Here](http://eepurl.com/cM0j61)
