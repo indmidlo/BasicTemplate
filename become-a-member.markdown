@@ -14,3 +14,4 @@ Members of our Indivisible Midlothian chapter come from all kinds of backgrounds
 
 **All are welcome.**
 [Sign Up](http://eepurl.com/cM0j61)
+[Email Us] <a href="mailto:indivisiblemidlothian@gmail.com">Send mail</a>
