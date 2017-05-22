@@ -59,7 +59,7 @@ defaults:
     mailchimp-form-embed: 
 subtitle: We are hundreds of local citizens resisting the Trump agenda through civic
   action.
-email: indivisiblemidlothian@gmail.com
+email: mailto:indivisiblemidlothian@gmail.com
 baseurl: 
 url: 
 twitter_username: "@indivisiblemid"
