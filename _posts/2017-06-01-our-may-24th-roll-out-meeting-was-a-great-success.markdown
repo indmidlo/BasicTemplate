@@ -2,6 +2,7 @@
 title: Our May 24th Roll Out Meeting Was a Great Success!
 date: 2017-06-01 09:33:00 -04:00
 is featured: true
+main-image: "/uploads/Meeting%20may%2024.jpg"
 ---
 
 We are looking forward to getting everyone involved in Action Groups. Thanks to Sarah Ocheltree for meeting Minutes and refreshments, Cheralyn Potts for refreshments and Terri Dougherty for your awesome meeting prep!
