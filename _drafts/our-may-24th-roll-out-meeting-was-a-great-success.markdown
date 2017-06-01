@@ -1,5 +1,5 @@
 ---
-title: Our May 24th Roll Out Meeting was a Great Success!
+title: Our May 24th Roll Out Meeting Was a Great Success!
 date: 2017-06-01 09:33:00 -04:00
 ---
 
