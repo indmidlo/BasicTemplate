@@ -6,8 +6,12 @@ position: 5
 
 More Info Coming Soon!
 
+
+
 **Meeting Minutes:**
+
 **General Membership Meetings**
 
-Coordinating Committee Meetings****
+**Coordinating Committee Meetings**
+
 [Indivisible CC Minutes 5.1.17.docx](/uploads/Indivisible%20CC%20Minutes%205.1.17.docx)
