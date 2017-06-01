@@ -3,7 +3,7 @@ title: Keep Funding for "The Wall" Out of the Federal Budget
 date: 2017-04-25 14:04:00 -04:00
 categories:
 - action
-is featured: true
+is featured: false
 call-script-text: 'Potential Script: Hi, my name is _____ and I''m a constituent from
   __City___Zip___. I''m calling to express my strong opposition to any federal budget
   that funds the construction of a southern border wall. At a conservative estimate
