@@ -7,7 +7,7 @@ is featured: true
 main-image: "/uploads/18221586_1332270153546589_4346300929181388468_n.jpg"
 event-start-date: 2017-06-03 00:00:00 -04:00
 event-end-date: 2017-06-03 16:00:00 -04:00
-Location: TBD
+Location: Virginia State Capital, 1000 Bank Street, Richmond, Virginia 23219
 RSVP-link: https://www.facebook.com/events/647866198757779/
 Field name: 
 ---
