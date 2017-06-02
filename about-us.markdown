@@ -10,8 +10,10 @@ More Info Coming Soon!
 
 **Meeting Minutes:**
 
-**General Membership Meetings**
+**General Membership Meetings**[Indivisible CC Minutes 6.1.17.docx](/uploads/Indivisible%20CC%20Minutes%206.1.17.docx)
+
+
 
 **Coordinating Committee Meetings**
 
-[Indivisible CC Minutes 5.1.17.docx](/uploads/Indivisible%20CC%20Minutes%205.1.17.docx)
+[Indivisible CC Minutes 6.1.17.docx](/uploads/Indivisible%20CC%20Minutes%206.1.17.docx)
