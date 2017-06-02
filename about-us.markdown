@@ -7,6 +7,8 @@ position: 5
 
 More Info Coming Soon!
 
+
+
 **Meeting Minutes:**
 
 **General Membership Meetings**
