@@ -11,7 +11,7 @@ More Info Coming Soon!
 
 **General Membership Meetings**
 
-![Indivisible GM Minutes 5.24.17.docx](/uploads/Indivisible%20GM%20Minutes%205.24.17.docx)
+[Indivisible GM Minutes 5.24.17.docx](/uploads/Indivisible%20GM%20Minutes%205.24.17.docx)
 
 **Coordinating Committee Meetings**
 
