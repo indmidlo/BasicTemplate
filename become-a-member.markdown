@@ -13,4 +13,4 @@ Members of our Indivisible Midlothian chapter come from all kinds of backgrounds
 
 **All are welcome.**
 
-<b>[Sign Up Here]<b>(http://eepurl.com/cM0j61)
+**[Sign Up Here](http://eepurl.com/cM0j61)**
