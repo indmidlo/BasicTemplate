@@ -9,4 +9,4 @@ On June 14 from open until close, we will call our U.S. Senators and tell them t
 
 Get started at:
 
-[https://www.indivisibleguide.com/resource/stop-trumpcare-senate-call-script/)
+[](https://www.indivisibleguide.com/resource/stop-trumpcare-senate-call-script/)
