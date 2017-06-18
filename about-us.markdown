@@ -19,6 +19,5 @@ More Info Coming Soon!
 
 \[Indivisible CC Minutes 6.8.17.docx\]
 
-![Indivisible CC Minutes 6.8.17-356fe2.docx](/uploads/Indivisible%20CC%20Minutes%206.8.17-356fe2.docx)
 
 [Indivisible CC Minutes 6.8.17-d8b6cf.docx](/uploads/Indivisible%20CC%20Minutes%206.8.17-d8b6cf.docx)
