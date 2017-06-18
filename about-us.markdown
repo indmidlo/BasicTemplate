@@ -15,5 +15,4 @@ More Info Coming Soon!
 **Coordinating Committee Meetings**
 
 [Indivisible CC Minutes 6.1.17.docx](/uploads/Indivisible%20CC%20Minutes%206.1.17.docx)
-
-/uploads/Indivisible%20CC%20Minutes%206.8.17.docx
+[Indivisible CC Minutes 6.8.17.docx]
