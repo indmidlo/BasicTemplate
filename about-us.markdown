@@ -6,15 +6,7 @@ position: 5
 
 **Coordinating Committee:**
 
-Terri Dougherty
-
-Claire Fisher
-
-Bob Mesnard
-
-Lee Ann Newman
-
-Cheralyn Potts
+Terri Dougherty, Claire Fisher, Bob Mesnard, Lee Ann Newman, Cheralyn Potts
 
 
 **Our Bylaws:**
