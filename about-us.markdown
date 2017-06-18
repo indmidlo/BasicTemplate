@@ -16,9 +16,11 @@ Lee Ann Newman
 
 Cheralyn Potts
 
+
 **Our Bylaws:**
 
 [Bylaws Indivisible Midlothian.pdf](/uploads/ByLaws%20Indivisible%20Midlothian.pdf)
+
 
 **Meeting Minutes:**
 
