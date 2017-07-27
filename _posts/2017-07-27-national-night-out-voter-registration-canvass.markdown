@@ -1,7 +1,7 @@
 ---
 title: 'National Night Out: Voter Registration Canvass'
 date: 2017-07-27 08:46:00 -04:00
-tags:
+categories:
 - action
 event-start-date: 2017-08-01 16:00:00 -04:00
 event-end-date: 2017-08-01 20:00:00 -04:00
