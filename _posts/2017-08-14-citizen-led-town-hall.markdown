@@ -3,6 +3,7 @@ title: Citizen-led Town Hall
 date: 2017-08-14 17:32:00 -04:00
 categories:
 - Event
+is featured: true
 event-start-date: 2017-08-22 18:30:00 -04:00
 event-end-date: 2017-08-22 20:00:00 -04:00
 Location: Tuckahoe Library 1901 Starling Drive Henrico, VA 23229
