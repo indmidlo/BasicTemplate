@@ -11,7 +11,7 @@ Terri Dougherty, Claire Fisher, Bob Mesnard, Lee Ann Newman, Cheralyn Potts
 
 **Our Bylaws:**
 
-[Bylaws Indivisible Midlothian.pdf](/uploads/ByLaws%20Indivisible%20Midlothian.pdf)
+[Bylaws Indivisible Midlothian.pdf](/uploads/ByLaws%20Indivisible%20Midlothian_revised.pdf)
 
 
 **Meeting Minutes:**
